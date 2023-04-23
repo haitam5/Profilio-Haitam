@@ -7,23 +7,23 @@ import {ImCross} from 'react-icons/im'
 
 function handleButtonClick() {
     // Load the page here
-    window.location.href = 'http://localhost:3000/Formations';
+    window.location.href = 'https://profilio-haitam.vercel.app/Formations';
   } 
   function handleButtonClick1() {
     // Load the page here
-    window.location.href = 'http://localhost:3000/Expérience';
+    window.location.href = 'https://profilio-haitam.vercel.app/Expérience';
   } 
   function handleButtonClick2() {
     // Load the page here
-    window.location.href = 'http://localhost:3000/Projet';
+    window.location.href = 'https://profilio-haitam.vercel.app/Projet';
   } 
   function handleButtonClick3() {
     // Load the page here
-    window.location.href = 'http://localhost:3000/Certication';
+    window.location.href = 'https://profilio-haitam.vercel.app/Certication';
   } 
   function handleButtonClick4() {
     // Load the page here
-    window.location.href = 'http://localhost:3000/';
+    window.location.href = 'https://profilio-haitam.vercel.app/';
   } 
 
 const Navbar = () => {
